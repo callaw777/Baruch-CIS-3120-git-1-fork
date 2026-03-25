@@ -21,8 +21,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
+**Emma Parvar** (GitHub: emmaparvar): My favorite movie is Iron Man.
 - **Hennesy Guevarra** (GitHub: hennesyg): My favorite movie is To All the Boys I've Loved Before
 - **Pyae Pyae Thu** (GitHub: ppyaethu1504): My favorite movie is The Greatest Showman.
 **Natalie Bojorquez** (GitHub: Natalie-Bojorquez): My favorite movie is Howl's Moving Castle. 
-
 Constantine Kampolis** (Github: ckampolis): My favorite movie is Limitless
